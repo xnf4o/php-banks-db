@@ -16,7 +16,7 @@ class BankInfo
     /**
      * How many digits to store
      */
-    protected const int PREFIX_LENGTH = 8;
+    protected const PREFIX_LENGTH = 8;
 
     protected bool $is_unknown = false;
 
